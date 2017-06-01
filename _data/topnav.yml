@@ -5,6 +5,8 @@ topnav:
   items:
     - title: News
       url: /news
+    - title: Github
+      external_url: https://github.com/clearcontainers
 
 #Topnav dropdowns
 topnav_dropdowns:
