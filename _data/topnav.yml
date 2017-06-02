@@ -5,6 +5,8 @@ topnav:
   items:
     - title: Home
       url: /index.html
+    - title: Architecture
+      url: /arch-overview.html
     - title: Github
       external_url: https://github.com/clearcontainers
 

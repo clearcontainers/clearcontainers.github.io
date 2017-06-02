@@ -1,0 +1,42 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  folders:
+
+  - title: Architecture
+    output: web, pdf
+    folderitems:
+
+    - title: Overview
+      url: /arch-overview.html
+      output: web, pdf
+      type: homepage
+
+    - title: Hypervisor
+      url: /arch-hypervisor.html
+      output: web, pdf
+
+    - title: Hyperstart
+      url: /arch-hyperstart.html
+      output: web, pdf
+
+    - title: Runtime
+      url: /arch-runtime.html
+      output: web, pdf
+
+    - title: Proxy
+      url: /arch-proxy.html
+      output: web, pdf
+
+    - title: shim
+      url: /arch-shim.html
+      output: web, pdf
+
+    - title: Networking
+      url: /arch-networking.html
+      output: web, pdf
+
+    - title: DAX
+      url: /arch-dax.html
+      output: web, pdf
