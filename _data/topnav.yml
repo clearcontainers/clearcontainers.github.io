@@ -3,8 +3,8 @@
 topnav:
 - title: Topnav
   items:
-    - title: News
-      url: /news
+    - title: Home
+      url: /index.html
     - title: Github
       external_url: https://github.com/clearcontainers
 

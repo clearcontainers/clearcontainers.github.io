@@ -3,7 +3,7 @@ repository: clearcontainers/clearcontainers.github.io
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Intel® Clear Containers
+topnav_title: Intel<sup>®</sup> Clear Containers
 # this appears on the top navigation bar next to the home button
 
 site_title: Intel® Clear Containers Documentation
