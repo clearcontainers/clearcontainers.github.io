@@ -116,6 +116,3 @@ plugins:
 
 whitelist:
   - jekyll-redirect-from
-
-redirect_to:
-  - https://github.com/clearcontainers/runtime
