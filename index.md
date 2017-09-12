@@ -9,18 +9,10 @@ redirect_to:
   - https://github.com/clearcontainers/runtime
 ---
 
-## What are Intel<sup>®</sup> Clear Containers?
+Note: This site is under construction.
 
-XXX
+Please see the following for the time being:
 
-## What is an OCI runtime?
-
-XXX
-
-## Intel<sup>®</sup> Clear Containers & Docker*
-
-XXX
-
-## Intel<sup>®</sup> Clear Containers & Kubernetes*
-
-XXX
+- https://github.com/clearcontainers/runtime
+- https://github.com/clearcontainers/runtime/wiki
+- https://github.com/clearcontainers/runtime/tree/master/docs
